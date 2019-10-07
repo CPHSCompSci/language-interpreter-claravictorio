@@ -4,7 +4,8 @@ public class Main {
 
   public static void main(String[] args) {
     Lexicon lex = new Lexicon();
-
+    // test comment
+    // hello
     String newWord = lex.translate("food");
     System.out.println(newWord);
 
